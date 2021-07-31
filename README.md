@@ -4,8 +4,8 @@
 ## Description
 This is a cross-platform crypto currency price checking app that helps monitor your bitcoin investments on the move.
 ## Technologies Used
-*Flutter
-*Dart
+* Flutter
+* Dart
 ## Known Bugs
 NO known bugs as at the moment please reach me if you see any.
 ##App demo
